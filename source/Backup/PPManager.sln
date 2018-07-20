@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPManager", "PPManager.csproj", "{76499EF5-A593-40BC-84B8-9BE1A4F4D14F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{76499EF5-A593-40BC-84B8-9BE1A4F4D14F}.Debug.ActiveCfg = Debug|.NET
+		{76499EF5-A593-40BC-84B8-9BE1A4F4D14F}.Debug.Build.0 = Debug|.NET
+		{76499EF5-A593-40BC-84B8-9BE1A4F4D14F}.Release.ActiveCfg = Release|.NET
+		{76499EF5-A593-40BC-84B8-9BE1A4F4D14F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Development Projects\Personal Projects\PPManager\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Development Projects\Personal Projects\PPManager\obj\Release\Interop.PowerPoint.dll
+C:\Development Projects\Personal Projects\PPManager\obj\Release\Interop.VBIDE.dll
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.csproj.ResolveComReference.cache
+C:\Development Projects\Personal Projects\PPManager\obj\Release\ResolveAssemblyReference.cache
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.frmMain.resources
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.frmAbout.resources
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.csproj.GenerateResource.Cache
+C:\Development Projects\Personal Projects\PPManager\bin\Release\PPManager.exe
+C:\Development Projects\Personal Projects\PPManager\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Development Projects\Personal Projects\PPManager\bin\Release\Interop.PowerPoint.dll
+C:\Development Projects\Personal Projects\PPManager\bin\Release\Interop.VBIDE.dll
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.exe
+C:\Development Projects\Personal Projects\PPManager\obj\Release\PPManager.Properties.Resources.resources
